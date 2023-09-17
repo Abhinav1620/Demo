@@ -12,7 +12,7 @@ public class Context {
 
 
         page.navigate("https://www.saucedemo.com/v1/");
-        page.type("#user-name", "standard_user", new Page.TypeOptions().setDelay(300));
+        page.type("#user-name", "standard_user");
 
 
 
