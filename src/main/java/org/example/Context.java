@@ -15,6 +15,10 @@ public class Context {
         page.type("#user-name", "standard_user");
         page.type("#password", "standard_user");
         page.click("#login");
+        page.click("#login");
+        page.click("#login");
+        page.click("#login");
+
 
 
 
