@@ -14,11 +14,17 @@ public class Context {
         page.navigate("https://www.saucedemo.com/v1/");
         page.type("#user-name", "standard_user");
         page.type("#password", "standard_user");
+
         page.click("#login");
         page.click("#login");
         page.click("#login");
         page.click("#login");
 
+//        git push --set-upstream origin New
+//        git push --set-upstream origin New
+//        git push --set-upstream origin New
+//        git push --set-upstream origin New
+//        git push --set-upstream origin New
 
 
 
